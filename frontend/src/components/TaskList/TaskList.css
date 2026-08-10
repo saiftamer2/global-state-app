@@ -1,0 +1,14 @@
+.task-list {
+  width: 100%;
+}
+
+.error-state {
+  padding: 30px;
+
+  text-align: center;
+
+  background: #fee2e2;
+  color: #991b1b;
+
+  border-radius: 10px;
+}
