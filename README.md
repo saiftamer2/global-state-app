@@ -2,6 +2,9 @@
 
 A React and Express application built to demonstrate global state management, shared state between features, data fetching patterns, loading states, and empty states.
 
+## 🌐 Live Demo
+https://global-state-app.vercel.app/
+
 ## Features
 
 - Global state management using React Context API
